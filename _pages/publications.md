@@ -3,7 +3,7 @@ title: "Cameron Calk - Publications"
 layout: gridlay
 excerpt: "Cameron Calk -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: ccalk/publications/
 ---
 
 
