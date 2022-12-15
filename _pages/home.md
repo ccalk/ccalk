@@ -40,6 +40,4 @@ We are a dynamic research group at the [Laboratoire d'Informatique et Systmes](h
 
 <p>I obtained my PhD in Mathematics and Computer Science at Ecole Polytechnique in November 2022, under the supervision of <a href="http://www.lix.polytechnique.fr/Labo/Eric.Goubault/">Eric Goubault</a> and <a href="http://math.univ-lyon1.fr/homes-www/malbos/">Philippe Malbos</a>.
 
-<p><br /></p>
-
 <p>You can contact me at : firstname dot lastname at lis dash lab dot fr
