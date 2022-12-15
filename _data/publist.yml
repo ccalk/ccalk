@@ -1,5 +1,5 @@
 - title: "Algebraic coherent confluence and higher-dimensional globular Kleene algebras"
-  image: imageaward_edited.png
+  image: Confluence.jpeg
   description: We introduce higher globular Kleene algebras and prove coherent, formal versions of classic rewriting results.
   authors: C Calk, E Goubault, P Malbos, G Struth
   link:
@@ -9,7 +9,7 @@
   news1:   Accepted by Logical Methods in Computer Science (LMCS) in July 2022.
 
 - title: "Abstract strategies and coherence"
-  image: BSCCOgap.png
+  image: puzzle-piece-template-13.jpeg
   description: We formalise the notion of normalisation strategy, from abstract rewriting, in the formal algebraic setting of higher Kleene algebra. This leads to a succinct algebraic proof of the Squier coherence theorem for abstract rewriting systems.
   authors: C Calk, E Goubault, P Malbos
   link:
@@ -18,7 +18,7 @@
   highlight: 1
 
 - title: "lr-Multisemigroups, modal quantales end the origin of locality"
-  image: Pairs3.png
+  image: ModalTissue.jpeg
   description: We generalise the notion of small category as a set equipped with multi-operations, and link these to modal quantales, in particular exploring the locality axiom for the domain operator.
   authors: C Calk, U Fahrenberg, C Johansen, G Struth, K Ziemanski
   link:
@@ -36,7 +36,7 @@
   highlight: 1
 
 - title: "Beyond formulas-as-cographs: an extension of Boolean logic to arbitrary graphs"
-  image: TBG_SL.png
+  image: 5cycle.png
   description: The syntax and semantics of first order logic can be fully expressed using the notion of cograph. We extend this to arbitrary graphs and prove basic completeness results.
   authors: C Calk, A Das, T Waring
   link:
