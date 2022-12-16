@@ -3,7 +3,7 @@
   headline: "My website has finally been created!"
   
 - date: 15. November 2022
-  headline: "I started my post-doc in the <a href="https://www.lis-lab.fr/lirica/">LIRICA</a> team at <a href="https://www.lis-lab.fr/">LIS</a>."
+  headline: "I started my post-doc in the <a href='https://www.lis-lab.fr/lirica/'>LIRICA</a> team at <a href='https://www.lis-lab.fr/'>LIS</a>."
   
 - date: 10. November 2022
   headline: "I obtained my doctorate in mathematics and computer science."
