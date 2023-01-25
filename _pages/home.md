@@ -20,14 +20,25 @@ Since November 2022 I am a postdoctoral researcher at the [Laboratoire d'Informa
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
-
-    <!-- Items -->
+<!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/CamPortrait.jpg" alt="Slide 1" />
         </div>
-         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/TractorBeam200.jpg" alt="Slide 2" />
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/000074910031.jpg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Sal,man300.jpeg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/000074910033.jpg" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/UNIVERCHELLE.jpeg" alt="Slide 5" />
+        </div>       
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/000074910035.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
