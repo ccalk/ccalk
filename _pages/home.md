@@ -26,6 +26,9 @@ Since November 2022 I am a postdoctoral researcher at the [Laboratoire d'Informa
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/CamPortrait.jpg" alt="Slide 1" />
         </div>
+         <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/TractorBeam200.jpg" alt="Slide 2" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
