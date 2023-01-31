@@ -44,3 +44,13 @@
     display:  arXiv:2004.12941 (2020)
   highlight: 0
   news1: My contribution occurred during my research internship with Anupam Das at the end of my third and final year of my bachelor.
+  
+  - title: "Algebraic and topological models of directed systems : Exploring dimensions of calculation via algebraic, categorical and homotopical approaches"
+  image: 5cycle.png
+  description: My PhD thesis, defended November 10 2022.
+  authors: C Calk
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news1: A local copy can be found <a href="/downloads/Memoire-copie---copie---copie.pdf">here</a>
