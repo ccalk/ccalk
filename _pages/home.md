@@ -8,6 +8,8 @@ permalink: /
 
 Since November 2022 I am a postdoctoral researcher at the [Laboratoire d'Informatique et Systèmes](https://www.lis-lab.fr/) in the [LIRICA team](https://www.lis-lab.fr/lirica/).
 
+<p> My research is in the domain of fundamental computer science, focussed mainly on the study of directed systems. In particular, I am interested in combinatorial and topological models of distributed and concurrent systems, as well as in the formalisation and development of higher dimensional rewriting techniques.</p>
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
