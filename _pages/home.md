@@ -28,7 +28,7 @@ Since November 2022 I am a postdoctoral researcher at the [Laboratoire d'Informa
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/CamPortrait.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/000074910031.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/000074910032.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Sal,man300.jpeg" alt="Slide 3" />
