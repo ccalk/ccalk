@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Since November 2022 I am a postdoctoral researcher at the [Laboratoire d'Informatique et Systèmes](https://www.lis-lab.fr/)
+Since November 2023 I am a postdoctoral researcher at the [Laboratoire d'Informatique et Systèmes](https://www.lis-lab.fr/) 
 in the [DALGO team](https://dalgo-team.pages.lis-lab.fr/website/). 
 I am currently funded by the [ANR DUCAT](https://www.irif.fr/anr-ducat/index) project.
 
@@ -14,8 +14,12 @@ I am currently funded by the [ANR DUCAT](https://www.irif.fr/anr-ducat/index) pr
 In particular, I am interested in combinatorial and topological models of distributed and concurrent systems, 
 as well as in the formalisation and development of higher dimensional rewriting techniques.</p>
 
+<p> Depuis Novembre 2023 je suis chercheur post-doctoral au [Laboratoire d'Informatique et Systèmes](https://www.lis-lab.fr/) 
+au sein de [l'équipe DALGO](https://dalgo-team.pages.lis-lab.fr/website/) dans le contexte du projet [ANR DUCAT](https://www.irif.fr/anr-ducat/index). </p>
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+
+
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
