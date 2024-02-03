@@ -9,6 +9,7 @@ permalink: /
 Since November 2023 I am a postdoctoral researcher at the [Laboratoire d'Informatique et Systèmes](https://www.lis-lab.fr/) 
 in the [DALGO team](https://dalgo-team.pages.lis-lab.fr/website/). 
 I am currently funded by the [ANR DUCAT](https://www.irif.fr/anr-ducat/index) project.
+During the academic year 22-23 I worked in the same lab, but in the [LIRICA team](https://www.lis-lab.fr/lirica/) in the context of the  [ANR LambdaComb](https://www.lix.polytechnique.fr/LambdaComb/) project. 
 
 <p> My research is in the domain of fundamental computer science, focussed mainly on the study of directed systems. 
 In particular, I am interested in combinatorial and topological models of distributed and concurrent systems, 
