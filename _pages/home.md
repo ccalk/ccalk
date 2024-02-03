@@ -40,7 +40,7 @@ au sein de [l'équipe DALGO](https://dalgo-team.pages.lis-lab.fr/website/) dans 
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/CamPortrait.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/IMG_0119.HEIC.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/IMG_0119.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/000074910035.jpg" alt="Slide 3" />
