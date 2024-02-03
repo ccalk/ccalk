@@ -15,7 +15,10 @@ In particular, I am interested in combinatorial and topological models of distri
 as well as in the formalisation and development of higher dimensional rewriting techniques.</p>
 
 <p> Depuis Novembre 2023 je suis chercheur post-doctoral au [Laboratoire d'Informatique et Systèmes](https://www.lis-lab.fr/) 
-au sein de [l'équipe DALGO](https://dalgo-team.pages.lis-lab.fr/website/) dans le contexte du projet [ANR DUCAT](https://www.irif.fr/anr-ducat/index). </p>
+au sein de [l'équipe DALGO](https://dalgo-team.pages.lis-lab.fr/website/) dans le contexte du projet [ANR DUCAT](https://www.irif.fr/anr-ducat/index). Avant cela, j'ai travaillé au sein du même laboratoire mais dans [l'équipe LIRICA](https://www.lis-lab.fr/lirica/) dans le contexte du projet [ANR LambdaComb](https://www.lix.polytechnique.fr/LambdaComb/). </p>
+
+<p> Mes travaux se situent à la frontière entre les mathématiques et l'informatique. Je m'intéresse principalement 
+à l'étude des systèmes dirigées, soit dans la domaine de la réécriture de dimension supérieure et sa formalisation, soit dans l'étude de systèmes concurrents ou distribuées, souvent avec un approche topologique. </p>
 
 
 
@@ -36,19 +39,19 @@ au sein de [l'équipe DALGO](https://dalgo-team.pages.lis-lab.fr/website/) dans 
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/CamPortrait.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/000074910032.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/IMG_0119.HEIC.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Sal,man300.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/000074910035.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/000074910033.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/DA0A2479-C35F-4F39-B771-29A8645C057F.JPG" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/UNIVERCHELLE.jpeg" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/000074910035.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Sal,man300.jpeg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -61,9 +64,13 @@ au sein de [l'équipe DALGO](https://dalgo-team.pages.lis-lab.fr/website/) dans 
   </a>
 </div>
 
-<p>I obtained my PhD in Mathematics and Computer Science at Ecole Polytechnique in November 2022, under the supervision of <a href="http://www.lix.polytechnique.fr/Labo/Eric.Goubault/">Eric Goubault</a> and <a href="http://math.univ-lyon1.fr/homes-www/malbos/">Philippe Malbos</a>.</p>
+<p>I obtained my PhD in mathematics and computer science at Ecole Polytechnique in November 2022, under the supervision of <a href="http://www.lix.polytechnique.fr/Labo/Eric.Goubault/">Eric Goubault</a> and <a href="http://math.univ-lyon1.fr/homes-www/malbos/">Philippe Malbos</a>.</p>
 
 <p> I co-organise the <a href="https://algrewr.pages.math.cnrs.fr/">Algebraic Rewriting Seminar</a> with <a href="https://cchenavier.pages.math.cnrs.fr/">Cyrille Chenavier</a> and <a href="https://www-fourier.univ-grenoble-alpes.fr/~dupontbe/">Benjamin Dupont</a>.</p>
+
+<p>En Novembre 2022, j'ai obtenu mon doctorat en mathématiques et informatique, sous co-direction de <a href="http://www.lix.polytechnique.fr/Labo/Eric.Goubault/">Eric Goubault</a> et <a href="http://math.univ-lyon1.fr/homes-www/malbos/">Philippe Malbos</a>.</p>
+
+<p> Avec <a href="https://cchenavier.pages.math.cnrs.fr/">Cyrille Chenavier</a> et <a href="https://www-fourier.univ-grenoble-alpes.fr/~dupontbe/">Benjamin Dupont</a>, je co-organise le <a href="https://algrewr.pages.math.cnrs.fr/">Séminaire de Réécriture Algébrique</a>.</p>
     
 <p><br /></p>
 
