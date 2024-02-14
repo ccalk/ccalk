@@ -21,10 +21,6 @@ au sein de [l'équipe DALGO](https://dalgo-team.pages.lis-lab.fr/website/) dans 
 <p> Mes travaux se situent à la frontière entre les mathématiques et l'informatique. Je m'intéresse principalement 
 à l'étude des systèmes dirigées, soit dans la domaine de la réécriture de dimension supérieure et sa formalisation, soit dans l'étude de systèmes concurrents ou distribuées, souvent avec un approche topologique. </p>
 
-<p> [Here](/downloads/CVCamENGLISH-FINALFINAL.pdf) you can find a local copy of my CV. </p>
-
-<p> [Ici](/downloads/CVCamFrench_FINAL.pdf) vous trouverez une copie locale de mon CV. </p>
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="0" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
