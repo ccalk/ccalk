@@ -1,3 +1,21 @@
+- title: "Higher Catoids, Higher Quantales and their Correspondences"
+  image: 5cycle.png
+  description: We establish a Jónsson-Tarski correspondence between (higher) catoids, a generalisation of higher categories, and (higher) quantales.
+  authors: C Calk
+  link:
+    url: https://arxiv.org/abs/2307.09253
+    display: arXiv:2307.09253 (2023).
+  highlight: 0
+
+- title: "Persistent homology of directed spaces"
+  image: 5cycle.png
+  description: We link natural homology, an invariant of directed spaces, to the theory of persistent homology.
+  authors: C Calk
+  link:
+    url: https://arxiv.org/abs/2305.03357
+    display: arXiv:2305.03357 (2023).
+  highlight: 0
+  
 - title: "Algebraic and topological models of directed systems : Exploring dimensions of calculation via algebraic, categorical and homotopical approaches"
   image: 5cycle.png
   description: My PhD thesis, defended November 10 2022.
@@ -12,11 +30,10 @@
   description: We introduce higher globular Kleene algebras and prove coherent, formal versions of classic rewriting results.
   authors: C Calk, E Goubault, P Malbos, G Struth
   link:
-    url: https://arxiv.org/abs/2006.16129
-    display: arXiv:2006.16129 (2020)
+    url: https://lmcs.episciences.org/10536
+    display: Logical Methods in Computer Science, Volume 18, Issue 4 (2022)
   highlight: 1
-  news1:   Accepted by Logical Methods in Computer Science (LMCS) in July 2022.
-
+  
 - title: "Abstract strategies and coherence"
   image: puzzle-piece-template-13.jpeg
   description: We formalise the notion of normalisation strategy, from abstract rewriting, in the formal algebraic setting of higher Kleene algebra. This leads to a succinct algebraic proof of the Squier coherence theorem for abstract rewriting systems.
