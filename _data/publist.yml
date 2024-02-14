@@ -1,7 +1,7 @@
 - title: "Higher Catoids, Higher Quantales and their Correspondences"
   image: 5cycle.png
-  description: We establish a Jónsson-Tarski correspondence between (higher) catoids, a generalisation of higher categories, and (higher) quantales.
-  authors: C Calk
+  description: We establish a Jonsson Tarski correspondence between (higher) catoids, a generalisation of higher categories, and (higher) quantales.
+  authors: C Calk, P Malbos, D Pous, G Struth
   link:
     url: https://arxiv.org/abs/2307.09253
     display: arXiv:2307.09253 (2023).
@@ -10,7 +10,7 @@
 - title: "Persistent homology of directed spaces"
   image: 5cycle.png
   description: We link natural homology, an invariant of directed spaces, to the theory of persistent homology.
-  authors: C Calk
+  authors: C Calk, E Goubault, P Malbos
   link:
     url: https://arxiv.org/abs/2305.03357
     display: arXiv:2305.03357 (2023).
