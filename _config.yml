@@ -7,9 +7,8 @@
 
 # Site settings
 title: Cameron Calk
-email: your-email@domain.com
+email: cameron.calk@lis-lab.fr
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the AllanLab.
 baseurl: ""
 url: ""
 
